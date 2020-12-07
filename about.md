@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-一只在做时序建模的代码小白。
+一只在做神经网络的时序建模的代码小白
 
 ### More Information
 
