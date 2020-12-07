@@ -1,6 +1,6 @@
 ---
 layout: post
-title: paperlist about time series
+title: Paperlist about time series
 ---
 
 MAOMAO
