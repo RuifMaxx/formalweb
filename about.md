@@ -10,7 +10,7 @@ permalink: /about/
 
 ### About This Blog
 
-*“Xiaoxiao的少儿编程讲堂”* 专用教材
+*“ Xiaoxiao的少儿编程讲堂 ”* 专用教材
 
 ### Contact me
 
