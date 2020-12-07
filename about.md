@@ -8,7 +8,7 @@ permalink: /about/
 
 ### More Information
 
-欢迎关注我的摄影公众号：慢光SlowLight
+欢迎关注我的摄影微信公众号：慢光SlowLight
 
 ### Contact me
 
