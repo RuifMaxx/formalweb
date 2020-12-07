@@ -6,6 +6,8 @@ permalink: /about/
 
 一只在做神经网络时序建模的代码小白
 
+<br/>
+
 欢迎关注我的摄影微信公众号：慢光SlowLight
 
 ### About This Blog
