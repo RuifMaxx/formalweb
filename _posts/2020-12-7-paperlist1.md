@@ -8,12 +8,12 @@ title: Paperlist about time series
 - [x]  Neural Ordinary Differential Equations
 - [x]  Latent ODEs for Irregularly-Sampled Time Series
 
-##VAE
+## VAE
 - [ ] Variational Inference with Normalizing Flows
 
-##Flow
+## Flow
 - [ ] FFJORD: FREE-FORM CONTINUOUS DYNAMICS FOR SCALABLE REVERSIBLE GENERATIVE MODELS
 - [ ] Normalizing Flows: An Introduction and Review of Current Methods
 
-##Transformer
+## Transformer
 - [ ] Understanding and Improving Transformer From a Multi-Particle Dynamic System Point of View
