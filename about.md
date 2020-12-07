@@ -8,7 +8,7 @@ permalink: /about/
 
 ### About This Blog
 
-*“少儿编程教材”* 第一版
+*“Xiaoxiao的少儿编程”* 专用教材
 
 ### Contact me
 
