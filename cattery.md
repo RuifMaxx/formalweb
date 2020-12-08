@@ -16,6 +16,5 @@ permalink: /cattery/
          {{ draft.excerpt }}
    </div>
    <a href="{{ draft.url }}" class="read-more">Read More</a>
-   <p>{{ ___ | markdownify }}</p>
 {% endfor %}
 
