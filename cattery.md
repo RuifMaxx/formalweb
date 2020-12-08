@@ -2,14 +2,15 @@
 layout: page
 permalink: /cattery/
 ---
-# draft
+
+##Draft
 
 {% for draft in site.draft %}
-  <h3>
+  <h4>
     <a href="{{ draft.url }}">
       {{ draft.name }} - {{ draft.position }}
     </a>
-  </h3>
+  </h4>
   <p>{{ draft.content | markdownify }}</p>
 {% endfor %}
 
