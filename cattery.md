@@ -7,10 +7,10 @@ permalink: /cattery/
 ## Draft
 {% for draft in site.draft %}
   <h2>
-    <a href="{{ staff_member.url }}">
-      {{ staff_member.name }} - {{ staff_member.position }}
+    <a href="{{ draft.url }}">
+      {{ draft.name }} - {{ draft.position }}
     </a>
   </h2>
-  <p>{{ staff_member.content | markdownify }}</p>
+  <p>{{ draft.content | markdownify }}</p>
 {% endfor %}
 
