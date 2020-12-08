@@ -7,7 +7,7 @@ some usefull links and how the blog is built
 
 <br />
 
-## Git：
+## Git
 
 [Github Desktop](https://www.jianshu.com/p/06a960d991aa)
 
@@ -20,11 +20,11 @@ some usefull links and how the blog is built
 
 ## Jekyll
 
-### 入门：
+### 入门
 
 [搭建一个免费的，无限流量的Blog----github Pages和Jekyll入门](http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html)
 
-### 博客建立过程：
+### 博客建立过程
 
 1.Fork [Jekyll-now](https://github.com/barryclark/jekyll-now) repo。这个repo的首页上默认放Posts，另外带一个About的page。
 
@@ -32,7 +32,7 @@ some usefull links and how the blog is built
 
 3.用collection的方法归类零碎的Pages,发布到cattery.md上, [Jekyll Doc](https://jekyllrb.com/docs/collections/)
 
-### 其他值得参考的Blog：
+### 其他值得参考的Blog
 
 一个静态博客写作客户端：[gridea](https://github.com/getgridea/gridea)
 
