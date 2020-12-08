@@ -42,10 +42,14 @@ post放到_post文件夹里面，必须命名成年月日XXX的格式，pages放
 
 马壮的博客：[码志](https://github.com/mzlogin/mzlogin.github.io)
 
+Jekyll-now变体： [meinside.github.io](https://github.com/meinside/meinside.github.io)
+
 ### 进阶
 [用jekyll制作高大上的网站（二）——实际应用](https://www.cnblogs.com/strick/p/5484779.html)
 
 [为JEKYLL博客添加分类，标签和评论](http://zixiaojindao.github.io/blogging/2012/09/30/jekyll-category-tag-recent-comment/)
+
+[Adding tag cloud and archives page to Jekyll](https://blog.meinside.dev/Adding-tag-cloud-and-archives-page-to-Jekyll/)
 
 ## Markdown
 
