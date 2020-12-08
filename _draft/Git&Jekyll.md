@@ -1,6 +1,6 @@
 ---
 layout: page
-name: Git&Jekyll
+name: Git&Jekyll&Markdown
 position: 1
 ---
 
