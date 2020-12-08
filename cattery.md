@@ -4,6 +4,15 @@ title:  ***
 permalink: /cattery/
 ---
 
+{% for mao in site.mao %}
+   <h1>
+     <a href="{{ mao.url }}">{{ draft.title }}</a>
+   </h1>
+   <div class="entry">
+         {{ mao.excerpt }}
+   </div>
+   <a href="{{ mao.url }}" class="read-more">Read More</a>
+{% endfor %}
 
 {% for draft in site.draft %}
    <h1>

@@ -18,7 +18,7 @@ avatar: https://wwc.alicdn.com/avatar/getAvatar.do?userId=3418788231&width=80&he
 collections:
   draft:
     output: true
-  photo:
+  mao:
     output: true
 
 # Includes an icon in the footer for each username you enter

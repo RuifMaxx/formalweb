@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: 栗子
 ---
 
@@ -18,3 +18,4 @@ Biu~
 Love always,
 
 MAO
+

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Git & Jekyll & Markdown
 ---
 
@@ -23,6 +23,8 @@ some usefull links and how the blog is built
 ### 入门
 
 [搭建一个免费的，无限流量的Blog----github Pages和Jekyll入门](http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html)
+
+post放到_post文件夹里面，必须命名成年月日XXX的格式，pages放到根目录里面会被直接读到
 
 ### 博客建立过程
 
