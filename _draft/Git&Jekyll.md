@@ -10,11 +10,15 @@ position: first
 
 第一步，创建项目。
 
+***
+
 在你的电脑上，建立一个目录，作为项目的主目录。我们假定，它的名称为jekyll_demo。
 
 　　$ mkdir jekyll_demo
 
 对该目录进行git初始化。
+
+<hr>
 
 　　$ cd jekyll_demo
 
