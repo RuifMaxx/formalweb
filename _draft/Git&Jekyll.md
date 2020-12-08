@@ -38,7 +38,7 @@ some usefull links and how the blog is built
 
 给出[教程](https://segmentfault.com/a/1190000019438205)的：[studytime-blog](https://github.com/mystudytime/studytime-blog)
 
-[码志](https://github.com/mzlogin/mzlogin.github.io)
+马壮的博客：[码志](https://github.com/mzlogin/mzlogin.github.io)
 
 ### 进阶
 [用jekyll制作高大上的网站（二）——实际应用](https://www.cnblogs.com/strick/p/5484779.html)
