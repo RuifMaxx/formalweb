@@ -1,9 +1,10 @@
 ---
 layout: page
+title: Cattery
 permalink: /cattery/
 ---
 
-## Draft
+  <h1> Draft  <h1> 
 
 {% for draft in site.draft %}
   <h3>
