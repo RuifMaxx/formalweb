@@ -17,5 +17,6 @@ permalink: /cattery/
    </div>
 
    <a href="{{ draft.url }}" class="read-more">Read More</a>
+ </article>
 {% endfor %}
 

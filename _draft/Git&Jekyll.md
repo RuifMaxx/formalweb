@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 name: Git&Jekyll&Markdown
 position: first
 ---
