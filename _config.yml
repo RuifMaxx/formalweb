@@ -15,6 +15,10 @@ avatar: https://wwc.alicdn.com/avatar/getAvatar.do?userId=3418788231&width=80&he
 # Flags below are optional
 #
 
+collections:
+  staff_members:
+    output: true
+
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
