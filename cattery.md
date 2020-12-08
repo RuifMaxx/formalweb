@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Draft
+title:  ***
 permalink: /cattery/
 ---
 
