@@ -214,7 +214,7 @@ nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
-  font-size: 22px;
+  font-size: 20px;
 
   @include mobile {
     float: none;
@@ -225,10 +225,9 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $blue;
+    color: $darkGray;
     text-align: right;
     font-weight: 300;
-    text-decoration: underline;
     letter-spacing: 1px;
 
     @include mobile {
