@@ -30,7 +30,7 @@ some usefull links and how the blog is built
 
 2.添加第三个Page： cattery.md
 
-3.用collection的方法归类零碎的Pages,发布到cattery.md上, [Jekyll Doc](https://jekyllrb.com/docs/collections/)
+3.用collection的方法归类零碎的Pages,发布到cattery.md上。参考[Jekyll Doc](https://jekyllrb.com/docs/collections/)
 
 ### 其他值得参考的Blog
 
