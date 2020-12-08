@@ -4,14 +4,19 @@ title: Cattery
 permalink: /cattery/
 ---
 
-  <h1> Draft  <h1> 
+  <h2> Draft  <h2> 
 
 {% for draft in site.draft %}
-  <h3>
+  <h4>
     <a href="{{ draft.url }}">
       {{ draft.name }} - {{ draft.position }}
     </a>
-  </h3>
-  <p>{{ draft.content | markdownify }}</p>
+  </h4>
+  <div class="entry">
+        {{ draft.excerpt }}
+  </div>
+
+  <a href="{{ draft.url }}" class="read-more">Read More</a>
+ </article>
 {% endfor %}
 
