@@ -3,7 +3,7 @@ layout: post
 title: Git & Jekyll & Markdown
 ---
 
-some usefull links and how the blog is built
+how the blog is built and some usefull links
 
 <br />
 

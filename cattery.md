@@ -6,7 +6,7 @@ permalink: /cattery/
 
 {% for mao in site.mao %}
    <h1>
-     <a href="{{ mao.url }}">{{ draft.title }}</a>
+     <a href="{{ mao.url }}">{{ mao.title }}</a>
    </h1>
    <div class="entry">
          {{ mao.excerpt }}
