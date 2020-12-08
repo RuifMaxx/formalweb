@@ -1,7 +1,7 @@
 ---
 layout: page
 name: Git&Jekyll&Markdown
-position: 1
+position: first
 ---
 之所以接触到Hexo以及Jekyll框架是因为之前一直有在写些博客，比如通过 Github Pages直接写的HTML静态博客(点击这里浏览我之前写过的一个博客），但这种博客维护起来相当麻烦，有如下一些问题：
 

@@ -7,16 +7,16 @@ permalink: /cattery/
   <h2> Draft  <h2> 
 
 {% for draft in site.draft %}
-  <h4>
-    <a href="{{ draft.url }}">
-      {{ draft.name }} - {{ draft.position }}
-    </a>
-  </h4>
-  <div class="entry">
-        {{ draft.excerpt }}
-  </div>
+   <h4>
+     <a href="{{ draft.url }}">
+       {{ draft.name }} - {{ draft.position }}
+     </a>
+   </h4>
+   <div class="entry">
+         {{ draft.excerpt }}
+   </div>
 
-  <a href="{{ draft.url }}" class="read-more">Read More</a>
- </article>
+   <a href="{{ draft.url }}" class="read-more">Read More</a>
+  </article>
 {% endfor %}
 
