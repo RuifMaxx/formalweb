@@ -14,6 +14,7 @@ avatar: https://wwc.alicdn.com/avatar/getAvatar.do?userId=3418788231&width=80&he
 collections:
   staff_members:
     output: true
+    permalink: /:collection/:name
 
 #
 # Flags below are optional
