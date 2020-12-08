@@ -8,9 +8,7 @@ permalink: /cattery/
 
 {% for draft in site.draft %}
    <h4>
-     <a href="{{ draft.url }}">
-       {{ draft.name }} - {{ draft.position }}
-     </a>
+     <a href="{{ draft.url }}">{{ draft.title }}</a>
    </h4>
    <div class="entry">
          {{ draft.excerpt }}

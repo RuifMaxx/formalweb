@@ -1,7 +1,6 @@
 ---
 layout: page
-name: Git&Jekyll&Markdown
-position: first
+title: Git&Jekyll&Markdown
 ---
 
 但是，综合来看，它不失为搭建中小型Blog或项目主页的最佳选项之一。
