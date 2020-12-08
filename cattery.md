@@ -1,15 +1,14 @@
 ---
 layout: page
-title: Cattery
+title: Draft
 permalink: /cattery/
 ---
 
-  <h2> Draft  <h2> 
 
 {% for draft in site.draft %}
-   <h4>
+   <h1>
      <a href="{{ draft.url }}">{{ draft.title }}</a>
-   </h4>
+   </h1>
    <div class="entry">
          {{ draft.excerpt }}
    </div>
