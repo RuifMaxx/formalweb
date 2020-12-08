@@ -11,11 +11,6 @@ description: MAO的灵质空间
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://wwc.alicdn.com/avatar/getAvatar.do?userId=3418788231&width=80&height=80&type=sns
 
-collections:
-  staff_members:
-    output: true
-    permalink: /:collection/:name
-
 #
 # Flags below are optional
 #
