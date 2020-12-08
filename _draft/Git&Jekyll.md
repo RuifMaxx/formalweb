@@ -2,6 +2,11 @@
 layout: page
 title: Git & Jekyll & Markdown
 ---
+
+some usefull links and how the blog is built
+
+<br />
+
 ## Git：
 
 [Github Desktop](https://www.jianshu.com/p/06a960d991aa)
