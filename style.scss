@@ -227,7 +227,8 @@ nav {
     margin-left: 20px;
     color: $blue;
     text-align: right;
-    font-weight: 500;
+    font-weight: 400;
+    text-decoration:underline
     letter-spacing: 1px;
 
     @include mobile {
