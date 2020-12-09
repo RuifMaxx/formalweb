@@ -12,6 +12,7 @@ permalink: /cattery/
          {{ mao.excerpt }}
    </div>
    <a href="{{ mao.url }}" class="read-more">Read More</a>
+  </article>
 {% endfor %}
 
 {% for draft in site.draft %}
@@ -22,5 +23,6 @@ permalink: /cattery/
          {{ draft.excerpt }}
    </div>
    <a href="{{ draft.url }}" class="read-more">Read More</a>
+  </article>
 {% endfor %}
 
