@@ -11,6 +11,8 @@ My Favorites and the description.
 
 [Problem when rtol and atol are iterables](https://github.com/rtqichen/torchdiffeq/issues/4)
 
+[Tried to convert the latent_ode code to run on one dimension of the spiral. #91](https://github.com/rtqichen/torchdiffeq/issues/91)
+
 ## HTML
 
 [RSS 源 xmlParseEntityRef: no name 错误解决方法](https://www.it131.org/8487.html)
