@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Git and Jekyll and Markdown
+title: Git , Jekyll ,  Markdown and Mkdoc
 ---
 
 How the blog is built and some usefull links
@@ -56,3 +56,7 @@ Jekyll-now变体： [meinside.github.io](https://github.com/meinside/meinside.gi
 ## Markdown
 
 [作业部落Cmd Markdown](https://www.zybuluo.com/mdeditor)
+
+## Mkdoc
+[mkdoc](https://zhuanlan.zhihu.com/p/50806149)
+[mkdoc构建主页](https://www.zhihu.com/answer/1027247191)
