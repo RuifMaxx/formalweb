@@ -3,7 +3,7 @@ layout: page
 title: Useful links
 ---
 
-My Favorites and their description.
+My Favorites and the description.
 
 <br/>
 
