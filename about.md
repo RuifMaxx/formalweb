@@ -8,7 +8,7 @@ I focus on time series modeling with neural network.
 
 欢迎关注我的摄影微信公众号：慢光SlowLight
 
-### About This Blog
+### About this blog
 
 *“ Xiaoxiao的少儿编程讲堂 ”* 专用教材
 
