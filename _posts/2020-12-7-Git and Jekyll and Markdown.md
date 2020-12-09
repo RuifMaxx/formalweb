@@ -11,6 +11,8 @@ How the blog is built and some usefull links
 
 [Github Desktop](https://www.jianshu.com/p/06a960d991aa)
 
+可以把Github Desktop的文件夹作为Pycharm的项目文件夹，提交更方便
+
 [Git命令行和多人协同](https://www.cnblogs.com/guoyaohua/p/Git-tutorial.html)
 
 [Github中文文档](https://docs.github.com/cn)
