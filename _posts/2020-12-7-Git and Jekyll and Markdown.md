@@ -34,7 +34,7 @@ post放到_post文件夹里面，必须命名成年月日XXX的格式，pages放
 
 3.用collection的方法归类零碎的Pages,发布到cattery.md上。参考[Jekyll Doc](https://jekyllrb.com/docs/collections/)
 
-4.博客的样式集中在style.scss中
+4.修改Layout,另外博客的样式集中在style.scss中
 
 ### 其他值得参考的Blog
 
