@@ -13,7 +13,7 @@ My Favorites and the description.
 
 [Tried to convert the latent_ode code to run on one dimension of the spiral. #91](https://github.com/rtqichen/torchdiffeq/issues/91)
 
-[https://github.com/rtqichen/torchdiffeq/pull/5](https://github.com/rtqichen/torchdiffeq/pull/5)
+[Add latent ode example #5](https://github.com/rtqichen/torchdiffeq/pull/5)
 
 ## HTML
 
