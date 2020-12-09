@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Git & Jekyll & Markdown
+title: Git and Jekyll and Markdown
 ---
 
 How the blog is built and some usefull links
