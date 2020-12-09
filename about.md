@@ -1,10 +1,9 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 
-一只在做神经网络时序建模的代码小白
+I focus on time series modeling with neural network.
 
 欢迎关注我的摄影微信公众号：慢光SlowLight
 
