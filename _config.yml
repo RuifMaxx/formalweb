@@ -3,12 +3,12 @@ markdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
-permalink:        pretty
-relative_permalinks: true
+#permalink:        pretty
+#relative_permalinks: true
 
 # Setup
-title:            MSO
-tagline:          'A Jekyll theme'
+title:            MAO
+tagline:          'MAO的灵质空间'
 description:      MAO的灵质空间
 url:              ruifmaxx.github.io
 baseurl:          /
