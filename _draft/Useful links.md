@@ -13,6 +13,8 @@ My Favorites and the description.
 
 [Tried to convert the latent_ode code to run on one dimension of the spiral. #91](https://github.com/rtqichen/torchdiffeq/issues/91)
 
+[https://github.com/rtqichen/torchdiffeq/pull/5](https://github.com/rtqichen/torchdiffeq/pull/5)
+
 ## HTML
 
 [RSS 源 xmlParseEntityRef: no name 错误解决方法](https://www.it131.org/8487.html)
