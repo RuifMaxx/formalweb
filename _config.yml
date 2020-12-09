@@ -11,7 +11,7 @@ title:            MAO
 tagline:          'MAO的灵质空间'
 description:      MAO的灵质空间
 url:              ruifmaxx.github.io
-baseurl:          /
+baseurl:          ruifmaxx.github.io
 
 collections:
   draft:
