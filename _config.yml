@@ -120,11 +120,11 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: 
-    repo: 
+    owner: RuifMaxx
+    repo: RuifMaxx.github.io
     oauth:
-        client_id: 
-        client_secret: 
+        client_id: dcdc31a6b9937ea077e1
+        client_secret: b43211073717302d48c03d6182c374353268293a
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: RuifMaxx
