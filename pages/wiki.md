@@ -1,10 +1,10 @@
 ---
 layout: post
-title: MAOWO
+title: Cat
 description: 住在Wiki里面的猫
-keywords: 猫窝, MAOWO
+keywords: 猫窝, Cat
 comments: false
-menu: MAOWO
+menu: Cat
 permalink: /wiki/
 ---
 
