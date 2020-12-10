@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Useful links
-categories: Cattery
+title: Useful links for learning
+categories: Cat
 description: My Favorites and the description.
 keywords: Favorites
 ---
