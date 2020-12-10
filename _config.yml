@@ -51,7 +51,7 @@ email: ppeak@foxmail.com
 navs:
   -
     href: /
-    label: Home
+    label: 首页 Home
 
   -
     href: /categories/
@@ -75,7 +75,7 @@ navs:
 
   -
     href: /about/
-    label: About
+    label: 关于 About
 
 # ---------------- #
 #       RSS        #
@@ -128,7 +128,7 @@ gitment:
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: RuifMaxx
-    repo: RuifMaxx.github,io
+    repo: RuifMaxx.github.io
     clientID: b380892a4589d9fcb945
     clientSecret: f6d67cd86cda26bd9138d867a4a6099cb1142bb9
 # 在使用其它评论组件时可点击显示 Disqus
