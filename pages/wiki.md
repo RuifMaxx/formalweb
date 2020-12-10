@@ -1,14 +1,14 @@
 ---
-layout: page
-title: Wiki
-description: 人越学越觉得自己无知
-keywords: 维基, Wiki
+layout: post
+title: Cattery
+description: 住在Wiki里面的猫
+keywords: 猫窝, Cattery
 comments: false
-menu: 维基
+menu: Cattery
 permalink: /wiki/
 ---
 
-> 记多少命令和快捷键会让脑袋爆炸呢？
+> MAO的房间
 
 <ul class="listing">
 {% for wiki in site.wiki %}

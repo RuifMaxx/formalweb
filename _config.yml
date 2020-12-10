@@ -65,9 +65,9 @@ navs:
 #     href: /open-source/
 #     label: Cattery
 
-#  -
-#    href: /wiki/
-#    label: 维基
+  -
+    href: /wiki/
+    label: 猫窝 Cattery
 
 #  -
 #    href: /links/
@@ -105,7 +105,7 @@ plugins:
 #     - jekyll-mentions
 collections:
     wiki:
-        output: false
+        output: true
         permalink: /wiki/:path/
 
 # ---------------- #
