@@ -1,118 +1,95 @@
-# Hyde
+# 码志
 
-Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+我的个人博客：<https://mazhuang.org>，欢迎 Star 和 Fork。
 
-![Hyde screenshot](https://f.cloud.github.com/assets/98681/1831228/42af6c6a-7384-11e3-98fb-e0b923ee0468.png)
+## 概览
 
+<!-- vim-markdown-toc GFM -->
 
-## Contents
+* [效果预览](#效果预览)
+* [Fork 指南](#fork-指南)
+* [使用文档](#使用文档)
+* [经验与思考](#经验与思考)
+* [联系我](#联系我)
+* [致谢](#致谢)
 
-- [Usage](#usage)
-- [Options](#options)
-  - [Sidebar menu](#sidebar-menu)
-  - [Sticky sidebar content](#sticky-sidebar-content)
-  - [Themes](#themes)
-  - [Reverse layout](#reverse-layout)
-- [Development](#development)
-- [Author](#author)
-- [License](#license)
+<!-- vim-markdown-toc -->
 
+## 效果预览
 
-## Usage
+**[在线预览 &rarr;](https://mazhuang.org)**
 
-Hyde is a theme built on top of [Poole](https://github.com/poole/poole), which provides a fully furnished Jekyll setup—just download and start the Jekyll server. See [the Poole usage guidelines](https://github.com/poole/poole#usage) for how to install and use Jekyll.
+![screenshot home](https://mazhuang.org/assets/images/screenshots/home.png)
 
+## Fork 指南
 
-## Options
+Fork 本项目之后，还需要做一些事情才能让你的页面「正确」跑起来。
 
-Hyde includes some customizable options, typically applied via classes on the `<body>` element.
+1. 正确设置项目名称与分支。
 
+   按照 GitHub Pages 的规定，名称为 `username.github.io` 的项目的 master 分支，或者其它名称的项目的 gh-pages 分支可以自动生成 GitHub Pages 页面。
 
-### Sidebar menu
+2. 修改域名。
 
-Create a list of nav links in the sidebar by assigning each Jekyll page the correct layout in the page's [front-matter](http://jekyllrb.com/docs/frontmatter/).
+   如果你需要绑定自己的域名，那么修改 CNAME 文件的内容；如果不需要绑定自己的域名，那么删掉 CNAME 文件。
 
-```
----
-layout: page
-title: About
----
-```
+3. 修改配置。
 
-**Why require a specific layout?** Jekyll will return *all* pages, including the `atom.xml`, and with an alphabetical sort order. To ensure the first link is *Home*, we exclude the `index.html` page from this list by specifying the `page` layout.
+   网站的配置基本都集中在 \_config.yml 文件中，将其中与个人信息相关的部分替换成你自己的，比如网站的 url、title、subtitle 和第三方评论模块的配置等。
 
+   **评论模块：** 目前支持 disqus、gitment 和 gitalk，选用其中一种就可以了，推荐使用 gitalk。它们各自的配置指南链接在 \_config.yml 文件的 Comments 一节里都贴出来了。
 
-### Sticky sidebar content
+   **注意：** 如果使用 disqus，因为 disqus 处理用户名与域名白名单的策略存在缺陷，请一定将 disqus.username 修改成你自己的，否则请将该字段留空。我对该缺陷的记录见 [Issues#2][3]。
 
-By default Hyde ships with a sidebar that affixes it's content to the bottom of the sidebar. You can optionally disable this by removing the `.sidebar-sticky` class from the sidebar's `.container`. Sidebar content will then normally flow from top to bottom.
+4. 删除我的文章与图片。
 
-```html
-<!-- Default sidebar -->
-<div class="sidebar">
-  <div class="container sidebar-sticky">
-    ...
-  </div>
-</div>
+   如下文件夹中除了 template.md 文件外，都可以全部删除，然后添加你自己的内容。
 
-<!-- Modified sidebar -->
-<div class="sidebar">
-  <div class="container">
-    ...
-  </div>
-</div>
-```
+   * \_posts 文件夹中是我已发布的博客文章。
+   * \_drafts 文件夹中是我尚未发布的博客文章。
+   * \_wiki 文件夹中是我已发布的 wiki 页面。
+   * images 文件夹中是我的文章和页面里使用的图片。
 
+5. 修改「关于」页面。
 
-### Themes
+   pages/about.md 文件内容对应网站的「关于」页面，里面的内容多为个人相关，将它们替换成你自己的信息，包括 \_data 目录下的 skills.yml 和 social.yml 文件里的数据。
 
-Hyde ships with eight optional themes based on the [base16 color scheme](https://github.com/chriskempson/base16). Apply a theme to change the color scheme (mostly applies to sidebar and links).
+## 使用文档
 
-![Hyde in red](https://f.cloud.github.com/assets/98681/1831229/42b0b354-7384-11e3-8462-31b8df193fe5.png)
+- [本博客模板常见问题 Q & A](https://mazhuang.org/2020/05/03/blog-template-qna/)。
 
-There are eight themes available at this time.
+- 在本地预览博客效果可以参考 [Setting up your Pages site locally with Jekyll][2]。
 
-![Hyde theme classes](https://f.cloud.github.com/assets/98681/1817044/e5b0ec06-6f68-11e3-83d7-acd1942797a1.png)
+## 经验与思考
 
-To use a theme, add anyone of the available theme classes to the `<body>` element in the `default.html` layout, like so:
+* 排版建议遵照一定的规范，推荐 [中文文案排版指北（简体中文版）][1]。
 
-```html
-<body class="theme-base-08">
-  ...
-</body>
-```
+* 简约，尽量每个页面都不展示多余的内容。
 
-To create your own theme, look to the Themes section of [included CSS file](https://github.com/poole/hyde/blob/master/public/css/hyde.css). Copy any existing theme (they're only a few lines of CSS), rename it, and change the provided colors.
+* 有时一图抵千言，有时可能只会拖慢网页加载速度。
 
-### Reverse layout
+* 言之有物，不做无痛之呻吟。
 
-![Hyde with reverse layout](https://f.cloud.github.com/assets/98681/1831230/42b0d3ac-7384-11e3-8d54-2065afd03f9e.png)
+* 如果写技术文章，那先将技术原理完全理清了再开始写，一边摸索技术一边组织文章效率较低。
 
-Hyde's page orientation can be reversed with a single class.
+* 杜绝难断句、难理解的长句子，如果不能将其拆分成几个简洁的短句，说明脑中的理解并不清晰。
 
-```html
-<body class="layout-reverse">
-  ...
-</body>
-```
+* 可以学习一下那些高质量的博主，他们的行文，内容组织方式，有什么值得借鉴的地方。
 
+## 联系我
 
-## Development
+如果对本博客模板或者内容有任何建议，可以通过 [Issues](https://github.com/mzlogin/mzlogin.github.io/issues) 或者微信公众号「闷骚的程序员」与我取得联系。
 
-Hyde has two branches, but only one is used for active development.
+<img width="192px" height="192px" src="https://mazhuang.org/assets/images/qrcode.jpg"/>
 
-- `master` for development.  **All pull requests should be submitted against `master`.**
-- `gh-pages` for our hosted site, which includes our analytics tracking code. **Please avoid using this branch.**
+## 致谢
 
+本博客外观基于 [DONGChuan](https://dongchuan.github.io) 修改，感谢！
 
-## Author
+Thanks for JetBrains' support.
 
-**Mark Otto**
-- <https://github.com/mdo>
-- <https://twitter.com/mdo>
+<a href="https://www.jetbrains.com/?from=mzlogin.github.io"><img src="./assets/images/jetbrains.svg"/></a>
 
-
-## License
-
-Open sourced under the [MIT license](LICENSE.md).
-
-<3
+[1]: https://github.com/mzlogin/chinese-copywriting-guidelines
+[2]: https://help.github.com/articles/setting-up-your-pages-site-locally-with-jekyll/
+[3]: https://github.com/mzlogin/mzlogin.github.io/issues/2
