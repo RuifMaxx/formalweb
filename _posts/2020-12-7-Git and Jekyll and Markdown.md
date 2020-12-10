@@ -44,7 +44,7 @@ post放到_post文件夹里面，必须命名成年月日XXX的格式，pages放
 
 马壮的博客：[码志](https://github.com/mzlogin/mzlogin.github.io)
 
-Jekyll-now变体： [meinside.github.io](https://github.com/meinside/meinside.github.io)
+Jekyll-now变体： [meinside.github.io](https://github.com/meinside/meinside.github.io) ，[reverie](https://github.com/amitmerchant1990/reverie)
 
 ### 进阶
 [用jekyll制作高大上的网站（二）——实际应用](https://www.cnblogs.com/strick/p/5484779.html)
