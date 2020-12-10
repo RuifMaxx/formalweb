@@ -20,6 +20,8 @@ collections:
     output: true
   mao:
     output: true
+  photo:
+    output: true
 
 # Includes an icon in the footer for each username you enter
 footer-links:
