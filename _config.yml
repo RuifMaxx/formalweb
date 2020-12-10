@@ -31,7 +31,7 @@ compress_html:
   comments: ["<!--", "-->"]
 # 文章字数统计
 word_count:
-    enabled: true
+    enabled: false
 # 代码高亮风格，支持的 theme 列表见 https://github.com/mzlogin/rouge-themes
 highlight_theme: github
 
@@ -105,7 +105,7 @@ plugins:
 #     - jekyll-mentions
 collections:
     wiki:
-        output: true
+        output: false
         permalink: /wiki/:path/
 
 # ---------------- #
