@@ -1,37 +1,17 @@
 ---
 layout: page
-title: About
-description: 董拐拐呀
-keywords: 董小姐
-comments: true
-menu: 关于
+title: About Me
 permalink: /about/
 ---
 
-认真做事做好事 用心做事做对事
+I focus on time series modeling with neural network.
 
-## 联系
+欢迎关注我的摄影微信公众号：慢光SlowLight
 
-<ul>
-{% for website in site.data.social %}
-<li>{{website.sitename }}：<a href="{{ website.url }}" target="_blank">@{{ website.name }}</a></li>
-{% endfor %}
-{% if site.url contains 'mazhuang.org' %}
-<li>
-微信公众号：<br />
-<img style="height:192px;width:192px;border:1px solid lightgrey;" src="{{ assets_base_url }}/assets/images/qrcode.jpg" alt="闷骚的程序员" />
-</li>
-{% endif %}
-</ul>
+### About this blog
 
+*“ Xiaoxiao的少儿编程讲堂 ”* 专用教材
 
-## Skill Keywords
+### Contact me
 
-{% for skill in site.data.skills %}
-### {{ skill.name }}
-<div class="btn-inline">
-{% for keyword in skill.keywords %}
-<button class="btn btn-outline" type="button">{{ keyword }}</button>
-{% endfor %}
-</div>
-{% endfor %}
+[ppeak@foxmail.com](mailto:ppeak@foxmail.com)

@@ -2,16 +2,16 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://canDy961.github.io
+url: https://ruifmaxx.github.io
 date_format: "ordinal"
-title: 董小姐的草原
-subtitle: "时光未老 一路相随"
-description: "董拐拐很拐就是拐拐拐"
-keywords: 董小姐, 董拐拐
+title: MAO
+subtitle: "MAO"
+description: "MAO的灵质空间"
+keywords: MAO, 马瑞峰
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
-repository: canDy961/canDy961.github.io
+repository: RuifMaxx/RuifMaxx.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -24,7 +24,7 @@ components:
     # 不蒜子访问统计
     busuanzi:
         enabled: true
-        start_date: 2020-05-03
+        start_date: 2020-12-07
 # 压缩页面内容
 compress_html:
   clippings: all
@@ -38,12 +38,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: canDy961
+author: ruifmaxx
 organization: 
 organization_url: 
-github_username: canDy961
+github_username: ruifmaxx
 location: Wuhan, China
-email: chumpma@gmail.com
+email: ppeak@foxmail.com
 
 # ---------------- #
 #    Navigation    #
@@ -120,17 +120,17 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: canDy961
-    repo: canDy961.github.io
+    owner: 
+    repo: 
     oauth:
-        client_id: 784b07e885ab3cb4131e
-        client_secret: ae089a5d678c0686432d2274806874d19b9f921f
+        client_id: 
+        client_secret: 
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: canDy961
-    repo: canDy961.github.io
-    clientID: 784b07e885ab3cb4131e
-    clientSecret: ae089a5d678c0686432d2274806874d19b9f921f
+    owner: 
+    repo: 
+    clientID: 
+    clientSecret: 
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
@@ -139,7 +139,7 @@ lazy_load_disqus : false
 # ---------------- #
 simple_jekyll_search:
     # 是否支持全文搜索
-    fulltext: false
+    fulltext: true
     # 最多显示多少条搜索结果
     limit: 10
 
