@@ -31,6 +31,8 @@ post放到_post文件夹里面，必须命名成年月日XXX的格式，pages放
 
 ### 博客建立过程
 
+博客Jekyll分支里面版本的建立过程
+
 1.Fork [Jekyll-now](https://github.com/barryclark/jekyll-now) repo。这个repo的首页上默认放Posts，另外带一个About的page。
 
 2.添加第三个Page： cattery.md
@@ -38,6 +40,8 @@ post放到_post文件夹里面，必须命名成年月日XXX的格式，pages放
 3.用collection的方法归类零碎的Pages,发布到cattery.md上。参考[Jekyll Doc](https://jekyllrb.com/docs/collections/)
 
 4.修改Layout,另外博客的样式集中在style.scss中
+
+**目前版本使用[码志](https://github.com/mzlogin/mzlogin.github.io)**
 
 ### 其他值得参考的Blog
 
