@@ -3,7 +3,7 @@ layout: page
 title: Cyberpunk
 ---
 
-*Photoed on 2019.05 and Edited on 2020.12*
+*Photoed on 2019.05 in Qinghuangdao and Edited on 2020.12*
 
 <br/>
 
