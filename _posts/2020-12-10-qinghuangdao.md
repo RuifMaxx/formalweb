@@ -2,13 +2,15 @@
 layout: post
 title: Cyberpunk
 categories: Photos
-description: Photoed on 2019.05 in Qinghuangdao and Edited on 2020.12
+description: Cyberpunk2077发售啦
 keywords: Photos
 ---
 
 *Photoed on 2019.05 in Qinghuangdao and Edited on 2020.12*
 
-<br/>
+赛博朋克2077发售了
+我默默地把旧照片修成了赛博朋克
+我的GTX1050 2GB显卡里面跑着深度学习呢
 
 <div align="center">
    <img src="https://ruifmaxx.github.io/images/qinghuangdao/A.jpg" style="zoom:100%" />
