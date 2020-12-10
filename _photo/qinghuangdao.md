@@ -5,8 +5,15 @@ title: Cyberpunk
 
 *Photoed on 2019.05 and Edited on 2020.12*
 
-![_config.yml]({{ site.baseurl }}/images/qinghuangdao/A.jpg#pic_center)
-![_config.yml]({{ site.baseurl }}/images/qinghuangdao/B.jpg#pic_center)
+<br/>
+
+<div align="center">
+   <img src="https://ruifmaxx.github.io//images/qinghuangdao/A.jpg" style="zoom:100%" />
+
+   <br/>
+
+   <img src="https://ruifmaxx.github.io//images/qinghuangdao/B.jpg" style="zoom:100%" />
+</div>
 
 
 
