@@ -8,8 +8,9 @@ menu: 链接
 permalink: /links/
 ---
 
-> God made relatives. Thank God we can choose our friends.
+> 会添加我喜欢的博客。Some links I like it.
 
+> life
 <ul>
 {% for link in site.data.links %}
   {% if link.src == 'life' %}
@@ -18,7 +19,7 @@ permalink: /links/
 {% endfor %}
 </ul>
 
-> 友情链接
+> learning
 
 <ul>
 {% for link in site.data.links %}
