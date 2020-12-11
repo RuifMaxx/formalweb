@@ -51,11 +51,11 @@ email: ppeak@foxmail.com
 navs:
   -
     href: /
-    label: 首页
+    label: 首页 Home
 
   -
     href: /categories/
-    label: 分类
+    label: 分类 categories
 
 #   -
 #     href: /archives/
@@ -67,15 +67,15 @@ navs:
 
   -
     href: /wiki/
-    label: 猫窝
+    label: 猫窝 Cat
 
   -
     href: /links/
-    label: 链接
+    label: 链接 links
 
   -
     href: /about/
-    label: 关于
+    label: 关于 about
 
 # ---------------- #
 #       RSS        #
