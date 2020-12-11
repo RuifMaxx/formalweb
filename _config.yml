@@ -69,9 +69,9 @@ navs:
     href: /wiki/
     label: 猫窝 Cat
 
-#  -
-#    href: /links/
-#    label: 链接
+  -
+    href: /links/
+    label: 链接
 
   -
     href: /about/

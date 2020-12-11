@@ -1,0 +1,7 @@
+- name: 治愈系
+  url: https://www.juroku.net/
+  src: life
+
+- name: DeepTimeSeriesModel
+  url: https://github.com/drzhang3/DeepTimeSeriesModel
+  src: life
