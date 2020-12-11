@@ -4,6 +4,7 @@ title: Useful links for learning
 categories: Cat
 description: My Favorites and the description.
 keywords: Favorites
+comments: false
 ---
 
 My Favorites and the description.
