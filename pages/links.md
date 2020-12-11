@@ -2,15 +2,15 @@
 layout: page
 title: Links
 description: 没有链接的博客是孤独的
-keywords: 友情链接
+keywords: 友情链接, links
 comments: true
 menu: 链接
 permalink: /links/
 ---
 
-> 会添加我喜欢的博客。Some links I like it.
-
+> 会添加我喜欢的博客。
 > life
+
 <ul>
 {% for link in site.data.links %}
   {% if link.src == 'life' %}
