@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Photograph]Cyberpunk
+title: Photograph: Cyberpunk
 categories: Photos
 description: 
 keywords: Photos
