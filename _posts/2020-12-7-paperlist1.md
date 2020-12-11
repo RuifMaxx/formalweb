@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Paperlist about time series
-categories: Paper
+categories: Paperlist
 description: A ToRead list
 keywords: time series
 ---
