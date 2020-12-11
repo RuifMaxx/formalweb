@@ -9,6 +9,7 @@ permalink: /links/
 ---
 
 > 会添加我喜欢的博客。
+
 > life
 
 <ul>
