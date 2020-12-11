@@ -11,7 +11,7 @@ I focus on time series modeling with neural network.
 
 ### About this blog
 
-~~*“ Xiaoxiao的少儿编程讲堂 ”* 专用教材~~以后这个网站会什么都更一点，基本上我对什么感兴趣就放点啥
+这个网站会什么都更一点，基本上我对什么感兴趣就放点啥
 
 ### Contact me
 
