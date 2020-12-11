@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 赛博朋克2077发售啦
+title: 把旧照片修成赛博朋克
 categories: Photos
 description: 
 keywords: Photos
