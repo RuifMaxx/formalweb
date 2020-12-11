@@ -1,13 +1,11 @@
 ---
 layout: post
-title: Photograph: Cyberpunk
+title: 赛博朋克2077发售啦
 categories: Photos
 description: 
 keywords: Photos
 ---
 赛博朋克2077发售了
-
-<br/><br />
 
 我默默地把旧照片修成了赛博朋克
 
