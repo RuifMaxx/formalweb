@@ -55,7 +55,7 @@ navs:
 
   -
     href: /categories/
-    label: categories
+    label: Categories
 
 #   -
 #     href: /archives/
@@ -71,11 +71,11 @@ navs:
 
   -
     href: /links/
-    label: links
+    label: Links
 
   -
     href: /about/
-    label: about
+    label: About
 
 # ---------------- #
 #       RSS        #
