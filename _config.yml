@@ -4,10 +4,10 @@
 baseurl:
 url: https://ruifmaxx.github.io
 date_format: "ordinal"
-title: MAO
-subtitle: "MAO的灵质空间"
-description: "MAO的灵质空间"
-keywords: MAO, 马瑞峰
+title: RuifMa
+subtitle: "The world of RuifMa"
+description: "The world of RuifMa"
+keywords: RuifMa, 马瑞峰
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
