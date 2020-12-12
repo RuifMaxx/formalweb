@@ -8,7 +8,7 @@ menu: 链接
 permalink: /links/
 ---
 
-> 会添加我喜欢的博客。
+> My favorite Blogs
 
 > life
 
