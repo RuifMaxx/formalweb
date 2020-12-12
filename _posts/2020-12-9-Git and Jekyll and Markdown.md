@@ -43,7 +43,7 @@ post放到_post文件夹里面，必须命名成年月日XXX的格式，pages放
 
 **目前版本使用[码志](https://github.com/mzlogin/mzlogin.github.io)**
 
-可以在`yml`参数里面设置`topmost: ture`置顶文章。
+可以在`yml`参数里面设置`topmost: true`置顶文章。
 
 可以通过github的搜索来寻找项目关键字，如置顶功能的Top most。
 
