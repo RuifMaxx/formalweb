@@ -1,7 +1,3 @@
-- name: 治愈系
-  url: https://www.juroku.net/
-  src: life
-
-- name: DeepTimeSeriesModel
-  url: https://github.com/drzhang3/DeepTimeSeriesModel
+- name: Presentation in 12.13
+  url: https://RuifMaxx.github.io/images/2020-12-14-BLOG.pdf
   src: www
