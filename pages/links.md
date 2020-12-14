@@ -8,9 +8,8 @@ menu: 链接
 permalink: /links/
 ---
 
-> My favorite Blogs
 
-> life
+> 
 
 <ul>
 {% for link in site.data.links %}
@@ -20,7 +19,7 @@ permalink: /links/
 {% endfor %}
 </ul>
 
-> learning
+> Presentation
 
 <ul>
 {% for link in site.data.links %}
