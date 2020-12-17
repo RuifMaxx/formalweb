@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Links
+title: Downloads
 description: 没有链接的博客是孤独的
 keywords: 友情链接, links
 comments: false
