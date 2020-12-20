@@ -1,3 +1,11 @@
+---
+layout: post
+title: pytorchGPU 安装
+categories: Tools
+description: 
+keywords: time series
+---
+
 1.打开百度网盘 vs 2019.rar，安装VS，选择C++方面的内容。
 
 <div align="center"> 
