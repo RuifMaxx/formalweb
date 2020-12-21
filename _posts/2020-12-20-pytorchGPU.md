@@ -8,11 +8,7 @@ keywords: time series
 
 1.打开百度网盘 vs 2019.rar，安装VS，选择C++方面的内容。
 
-<div align="center"> 
-    <img src="https://Ruifmaxx.github.io/images/tools/1.png" style="zoom:100%" />
-​    
 
-</div>
 
 2.打开英伟达控制面板，点击系统信息，查看驱动版本。
 
