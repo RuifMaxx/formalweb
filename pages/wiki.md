@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Cat
-description: 住在Wiki里面的猫
-keywords: 猫窝, Cat
+title: Wiki
+description: 
+keywords: 
 comments: false
-menu: Cat
+menu: 
 permalink: /wiki/
 ---
 
