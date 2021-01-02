@@ -21,6 +21,8 @@ comments: true
 
 [百度经验](https://jingyan.baidu.com/article/19192ad80bab14e53e5707cf.html)
 
+win10专业版无法使用时下载以下客户端：
+
 [downloading Microsoft Remote Desktop assistant](https://www.microsoft.com/en-us/download/confirmation.aspx?id=50042)
 
 ## 有线连接
