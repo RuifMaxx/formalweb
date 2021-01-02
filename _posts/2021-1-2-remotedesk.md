@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 用ipad作为PC的远程桌面
+title: 用ipad作为PC手写输入
 categories: Tools
 description: 
 keywords: 
@@ -35,10 +35,14 @@ win10专业版无法使用时下载以下客户端：
 
 * 淘宝有卖
 
-### EasyCanvas
+### XDisplay
 
-* 延迟较大
+* 可以很好地把ipad作为一块副屏
+
+* 输入延迟较大
 
 * 免费
+
+* 升级版为Duet Display
 
 * 部分软件不支持触控手写，如“掌门好老师”
