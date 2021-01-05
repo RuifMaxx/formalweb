@@ -18,6 +18,8 @@ keywords: time series
 - [x]  Sequential Neural Models with Stochastic Layers(SRNN) ([PDF](https://arxiv.org/abs/1605.07571v1))([Code](https://github.com/Joeltzy/StochasticRNN))
 - [x]  A Multi-Horizon Quantile Recurrent Forecaster(MQ-RNN) ([PDF](https://arxiv.org/abs/1711.11053))([Code](https://github.com/jingw2/demand_forecast))
 - [x]  Deep Factors for Forecasting ([PDF](https://arxiv.org/abs/1905.12417))([Code](https://github.com/jingw2/demand_forecast))
+
+## ToRead
 - [ ]  [Neural CDE](https://github.com/patrick-kidger/NeuralCDE)
 - [ ] Variational Inference with Normalizing Flows
 - [ ] FFJORD: FREE-FORM CONTINUOUS DYNAMICS FOR SCALABLE REVERSIBLE GENERATIVE MODELS
