@@ -153,3 +153,4 @@ google:
         sidebar: false
         content_header: false
         content_footer: false
+markdown: kramdown
