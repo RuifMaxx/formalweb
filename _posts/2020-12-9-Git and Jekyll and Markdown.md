@@ -64,6 +64,30 @@ Jekyll-now变体： [meinside.github.io](https://github.com/meinside/meinside.gi
 
 [Adding tag cloud and archives page to Jekyll](https://blog.meinside.dev/Adding-tag-cloud-and-archives-page-to-Jekyll/)
 
+## 为jekyll添加latex公式
+
+工具官网： MathJax
+
+使用方法：
+
+具体方法就是，到 `_config.yml` 中加上一行 `markdown: kramdown` ，再打开 `_includes` 文件夹中的 `head.html` ，将下面这段脚本粘贴进去，提交修改，就可以正常渲染 LaTeX 公式了
+
+```
+
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        tex2jax: {
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+        inlineMath: [['$','$']]
+        }
+    });
+</script>
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
+
+```
+
+
 ## Markdown
 
 [作业部落Cmd Markdown](https://www.zybuluo.com/mdeditor)
