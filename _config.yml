@@ -65,9 +65,9 @@ navs:
 #     href: /open-source/
 #     label: Cattery
 
-  -
-    href: /wiki/
-    label: wiki
+#  -
+#    href: /wiki/
+#    label: wiki
 
   -
     href: /links/
