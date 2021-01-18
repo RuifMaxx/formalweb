@@ -8,7 +8,7 @@ menu:
 permalink: /wiki/
 ---
 
-> MAO的房间
+> RuifMa的房间
 
 <ul class="listing">
 {% for wiki in site.wiki %}
