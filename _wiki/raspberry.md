@@ -76,10 +76,11 @@ sudo apt-get update
 
 gem install jekyll
 
-gem install bundler
+`gem install bundler`
 
 bundle 换源：
 
+```
 bundle config 'mirror.https://rubygems.org' 'https://gems.ruby-china.com/'
 
 jekyll new myblog
@@ -87,4 +88,4 @@ jekyll new myblog
 cd myblog
 
 bundle exec jekyll serve
-
+```
