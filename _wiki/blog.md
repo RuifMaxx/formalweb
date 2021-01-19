@@ -1,6 +1,6 @@
 ---
 layout: post
-title: blog
+title: Blog
 categories: 
 description: My Favorites and the description.
 keywords: Favorites
@@ -36,4 +36,4 @@ comments: false
 
 ## github pages 绑定域名
 
-注意在域名购买方配置解析时要把主机记录配置为 @ ，同时在github pages配置CNMAE
+注意在域名购买方配置解析时要把主机记录配置为 @ ，同时在github pages配置CNAME
