@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Chain rule and Conditionally independent
-categories: time series
+categories: time_series
 description: 
 keywords: time series
 ---
