@@ -33,3 +33,7 @@ comments: false
 [Windows下搭建Hugo博客](https://www.cnblogs.com/Codemandyk/p/10855891.html)
 
 注意命令行要处于当前目录。theme文件需要在博客文件夹内，博客文件的根目录要包含一个hugo.exe
+
+## github pages 绑定域名
+
+注意在域名购买方配置解析时要把主机记录配置为 @ ，同时在github pages配置CNMAE
