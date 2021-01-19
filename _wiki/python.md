@@ -51,7 +51,9 @@ args = parser.parse_args(args=[])
 ([Jupyter Notebook使用parser.parse_args出现错误解决办法](https://blog.csdn.net/qq_34277608/article/details/97369630))
 
 
-## 深度学习PyTorch，TensorFlow中GPU利用率较低，CPU利用率很低，且模型训练速度很慢的问题总结与分析](https://blog.csdn.net/qq_32998593/article/details/92849585)
+## 深度学习GPU利用率较低，CPU利用率很低
+
+[模型训练速度很慢的问题总结与分析](https://blog.csdn.net/qq_32998593/article/details/92849585)
 
 总结一下，第一是增加batch size，增加GPU的内存占用率，尽量用完内存，而不要剩一半，空的内存给另外的程序用，两个任务的效率都会非常低。
 
