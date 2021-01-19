@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 我的问题
+title: my Q&A
 categories: 
 description: 
 keywords: 
