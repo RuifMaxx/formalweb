@@ -1,6 +1,6 @@
 ---
 layout: wiki
-title: Raspberry
+title: Linux
 categories: linux
 description: 使用树莓派搭建服务器的相关指令
 keywords: keyword1, keyword2
@@ -89,3 +89,9 @@ cd myblog
 
 bundle exec jekyll serve
 ```
+
+## linux下非root 用户安装pip 库
+
+pip install --user *     (* 为安装库的名字)
+
+([非root 用户安装pip 库](https://blog.csdn.net/yeyang911/article/details/78222158?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-1.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-1.control))
