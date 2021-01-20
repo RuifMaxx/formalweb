@@ -44,13 +44,15 @@ cd exampleSite && hugo server --themesDir ../..
 hugo --themesDir ../.. --baseUrl="地址" --buildDrafts
 ```
 
-## 腾讯云cos建站
+## 腾讯云cos静态页面建站
 
 * 存储桶建在海外
 
 * 启用静态页面，打开CDN，不强制使用https
 
-* 绑定域名
+* 绑定域名, 可以使用2级域名
+
+(或者使用netlify加速)
 
 ## github pages 绑定域名
 
