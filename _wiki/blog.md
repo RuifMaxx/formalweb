@@ -32,7 +32,14 @@ comments: false
 
 [Windows下搭建Hugo博客](https://www.cnblogs.com/Codemandyk/p/10855891.html)
 
+* m10c使用：
+
 注意命令行要处于当前目录。theme文件需要在博客文件夹内，博客文件的根目录要包含一个hugo.exe
+
+```
+hugo server -t m10c --buildDrafts
+hugo --theme=m10c --baseUrl="地址" --buildDrafts
+```
 
 * hugo massively 使用 ：
 
