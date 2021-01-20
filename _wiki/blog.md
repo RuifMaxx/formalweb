@@ -34,6 +34,24 @@ comments: false
 
 注意命令行要处于当前目录。theme文件需要在博客文件夹内，博客文件的根目录要包含一个hugo.exe
 
+* hugo massively 使用 ：
+
+```
+git clone https://github.com/curtistimson/hugo-theme-massively
+# Running Locally
+cd exampleSite && hugo server --themesDir ../..
+# public 
+hugo --themesDir ../.. --baseUrl="地址" --buildDrafts
+```
+
+## 腾讯云cos建站
+
+* 存储桶建在海外
+
+* 启用静态页面，打开CDN，不强制使用https
+
+* 绑定域名
+
 ## github pages 绑定域名
 
 注意在域名购买方配置解析时要把主机记录配置为 @ ，同时在github pages配置CNAME
