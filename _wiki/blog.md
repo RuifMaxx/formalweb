@@ -37,7 +37,9 @@ comments: false
 注意命令行要处于当前目录。theme文件需要在博客文件夹内，博客文件的根目录要包含一个hugo.exe
 
 ```
+# 本地预览
 hugo server -t m10c --buildDrafts
+# 发布
 hugo --theme=m10c --baseUrl="地址" --buildDrafts
 ```
 
