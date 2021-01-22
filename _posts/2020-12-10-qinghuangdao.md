@@ -5,8 +5,9 @@ categories: Photos
 description: 
 keywords: Photos
 ---
-
-*Photoed on 2019.05 in Qinghuangdao and Edited on 2020.12*
+<div align="center">
+   *Photoed on 2019.05 in Qinghuangdao and Edited on 2020.12*
+</div>
 <div align="center">
    <img src="https://ruifmaxx.github.io/images/qinghuangdao/A.jpg" style="zoom:100%" />
 
