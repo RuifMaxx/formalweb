@@ -12,6 +12,7 @@ keywords: time series
 - [x]  Neural Ordinary Differential Equations ([PDF](https://arxiv.org/abs/1806.07366)) ([Code](https://github.com/rtqichen/torchdiffeq))
 - [x]  Latent ODEs for Irregularly-Sampled Time Series ([PDF](https://arxiv.org/abs/1907.03907)) ([Code](https://github.com/YuliaRubanova/latent_ode))
 - [x]  BEYOND FINITE LAYER NEURAL NETWORKS: BRIDGING DEEP ARCHITECTURES AND NUMERICAL DIFFERENTIAL EQUATIONS ([PDF](https://arxiv.org/abs/1710.10121))
+- [x]  Adaptive Checkpoint Adjoint Method for Gradient Estimation in Neural ODE ([PDF](https://arxiv.org/abs/2006.02493))([Code](https://github.com/juntang-zhuang/torch_ACA))
 
 ## RNN
 - [x]  A Recurrent Latent Variable Model for Sequential Data(VRNN) ([PDF](https://arxiv.org/abs/1506.02216))([Code](https://github.com/emited/VariationalRecurrentNeuralNetwork))
@@ -21,7 +22,6 @@ keywords: time series
 
 ## CNN
 - [x]  Unsupervised Scalable Representation Learning for Multivariate Time Series ([PDF](https://arxiv.org/abs/1901.10738))([Code](https://github.com/White-Link/UnsupervisedScalableRepresentationLearningTimeSeries))
-- [x]  Adaptive Checkpoint Adjoint Method for Gradient Estimation in Neural ODE ([PDF](https://arxiv.org/abs/2006.02493))([Code](https://github.com/juntang-zhuang/torch_ACA))
 
 ## ToRead
 - [ ]  [Neural CDE](https://github.com/patrick-kidger/NeuralCDE)
