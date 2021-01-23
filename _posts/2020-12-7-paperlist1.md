@@ -19,6 +19,10 @@ keywords: time series
 - [x]  A Multi-Horizon Quantile Recurrent Forecaster(MQ-RNN) ([PDF](https://arxiv.org/abs/1711.11053))([Code](https://github.com/jingw2/demand_forecast))
 - [x]  Deep Factors for Forecasting ([PDF](https://arxiv.org/abs/1905.12417))([Code](https://github.com/jingw2/demand_forecast))
 
+## CNN
+- [x]  Unsupervised Scalable Representation Learning for Multivariate Time Series ([PDF](https://arxiv.org/abs/1901.10738))([Code](https://github.com/White-Link/UnsupervisedScalableRepresentationLearningTimeSeries))
+- [x]  Adaptive Checkpoint Adjoint Method for Gradient Estimation in Neural ODE ([PDF](https://arxiv.org/abs/2006.02493))([Code](https://github.com/juntang-zhuang/torch_ACA))
+
 ## ToRead
 - [ ]  [Neural CDE](https://github.com/patrick-kidger/NeuralCDE)
 - [ ] Variational Inference with Normalizing Flows
