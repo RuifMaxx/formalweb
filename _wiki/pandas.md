@@ -1,3 +1,11 @@
+---
+layout: wiki
+title: Pandas
+categories: Pandas
+description: 
+keywords: keyword1, keyword2
+---
+
 ```
 import pandas as pd
 pd.read_csv(filepath_or_buffer,header,parse_dates,index_col)
