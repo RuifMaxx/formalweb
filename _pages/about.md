@@ -19,7 +19,7 @@ redirect_from:
 
 # 👨‍🎓 About Me
 
-I’m a post-graduate student at Automation School, Beijing Institute of Technology, and received B.Eng. degree in Automation & Control, Shandong University (SDU). As a member of the State Key Laboratory of Intelligent Control and Decision of Complex Systems, I’m supervised by Prof. [Yuanqing Xia](https://scholar.google.com.hk/citations?user=HtedN3oAAAAJ&hl=zh-CN) and Vice Prof. [Yufeng Zhan](https://ray-zhan.github.io/). 
+I’m a post-graduate student at Automation School, Beijing Institute of Technology (BIT), and received B.Eng. degree in Automation & Control, Shandong University (SDU). As a member of the State Key Laboratory of Intelligent Control and Decision of Complex Systems, I’m supervised by Prof. [Yuanqing Xia](https://scholar.google.com.hk/citations?user=HtedN3oAAAAJ&hl=zh-CN) and Vice Prof. [Yufeng Zhan](https://ray-zhan.github.io/). 
 
 My research interests include cloud resource management and Machine Learning Operations (MLOps), which aims to take machine learning models to production, and then maintain and monitor them. 
 
