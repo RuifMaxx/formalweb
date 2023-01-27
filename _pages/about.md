@@ -25,7 +25,7 @@ My research interests include cloud resource management and Machine Learning Ope
 
 # 🔥 News
 - *2022.07*: &nbsp;🎉🎉 Received an acceptance letter from the School of Automation, Beijing Institute of Technology!
-- *2022.06*: &nbsp;🎉🎉 My graduation thesis focus on **Time Series Prediction with Deep Learning Method** was awarded as SDU Excellent graduation thesis and [gained 116 stars on GitHub](https://github.com/RuifMaxx/Multidimensional-time-series-with-transformer)!
+- *2022.06*: &nbsp;🎉🎉 My graduation thesis focus on **Time Series Prediction with Deep Learning** was awarded as SDU Excellent graduation thesis and [gained 116 stars on GitHub](https://github.com/RuifMaxx/Multidimensional-time-series-with-transformer)!
 
 
 # 📝 Papers 
