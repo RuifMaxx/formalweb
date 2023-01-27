@@ -24,8 +24,8 @@ I’m a post-graduate student at Automation School, Beijing Institute of Technol
 My research interests include cloud resource management and Machine Learning Operations(MLOps), which aims to takes machine learning models to production, and then maintaining and monitoring them. 
 
 # 🔥 News
-- *2022.07*: &nbsp;🎉🎉 Received an acceptance letter from the School of Automation, Beijing Institute of Technology!.
-- *2022.06*: &nbsp;🎉🎉 My graduation thesis focus on **Time Series Prediction with Deep Learning Method** was awarded as SDU Excellent graduation thesis!
+- *2022.07*: &nbsp;🎉🎉 Received an acceptance letter from the School of Automation, Beijing Institute of Technology!
+- *2022.06*: &nbsp;🎉🎉 My graduation thesis focus on **Time Series Prediction with Deep Learning Method** was awarded as SDU Excellent graduation thesis and [gained 116 stars on GitHub](https://github.com/RuifMaxx/Multidimensional-time-series-with-transformer)!
 
 
 # 📝 Papers 
