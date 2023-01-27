@@ -19,7 +19,9 @@ redirect_from:
 
 # 👨‍🎓 About Me
 
-I’m a post-graduate student at Automation School, Beijing Institute of Technology, and received B.Eng. degree in Automation & Control, Shandong University (SDU). As a member of the State Key Laboratory of Intelligent Control and Decision of Complex Systems, I’m supervised by Prof. [Xia Yuanqing](https://scholar.google.com.hk/citations?user=HtedN3oAAAAJ&hl=zh-CN) and Vice Prof. [Zhan Yufeng](https://ray-zhan.github.io/). My research interests include cloud resource management and Machine Learning Operations(MLOps), which aims to takes machine learning models to production, and then maintaining and monitoring them. 
+I’m a post-graduate student at Automation School, Beijing Institute of Technology, and received B.Eng. degree in Automation & Control, Shandong University (SDU). As a member of the State Key Laboratory of Intelligent Control and Decision of Complex Systems, I’m supervised by Prof. [Xia Yuanqing](https://scholar.google.com.hk/citations?user=HtedN3oAAAAJ&hl=zh-CN) and Vice Prof. [Zhan Yufeng](https://ray-zhan.github.io/). 
+
+My research interests include cloud resource management and Machine Learning Operations(MLOps), which aims to takes machine learning models to production, and then maintaining and monitoring them. 
 
 # 🔥 News
 - *2022.07*: &nbsp;🎉🎉 Received an acceptance letter from the School of Automation, Beijing Institute of Technology!.
@@ -28,7 +30,7 @@ I’m a post-graduate student at Automation School, Beijing Institute of Technol
 
 # 📝 Papers 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to TNSM 2023</div><img src='images/sonnet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to TNSM 2023</div><img src='images/a_1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Sonnet:** A Control-Theoretic Approach for Resource Allocation in Cluster Management
@@ -53,7 +55,7 @@ I’m a post-graduate student at Automation School, Beijing Institute of Technol
 - *2017.09 - 2021.06*, Undergraduate, School of Control Science and Engineering, Shandong University, Jinan 
 
 # 💻 Technical Skills
-- **Software:** Matlab&Simulink, C, Python, Golang, Bash, Linux, Docker, Kubernetes, Openfaas, LATEX, MS Office
+- **Software:** Matlab&Simulink, C, Python, Pytorch, Golang, Bash, Linux, Docker, Kubernetes, Openfaas, LATEX, MS Office
 - **Languages:** English (IELTS - 6.0), Chinese (Native)
 
 # 🧑‍💼 Internships 
