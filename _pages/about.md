@@ -17,42 +17,45 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+# 👨‍🎓 About Me
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+I’m a post-graduate student at Automation School, Beijing Institute of Technology, and received B.Eng. degree in Automation & Control, Shandong University (SDU). As a member of the State Key Laboratory of Intelligent Control and Decision of Complex Systems, I’m supervised by Prof. [Xia Yuanqing](https://scholar.google.com.hk/citations?user=HtedN3oAAAAJ&hl=zh-CN) and Vice Prof. [Zhan Yufeng](https://ray-zhan.github.io/). My research interests include cloud resource management and Machine Learning Operations(MLOps), which aims to takes machine learning models to production, and then maintaining and monitoring them. 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.07*: &nbsp;🎉🎉 Received an acceptance letter from the School of Automation, Beijing Institute of Technology!.
+- *2022.06*: &nbsp;🎉🎉 My graduation thesis focus on **Time Series Prediction with Deep Learning Method** was awarded as SDU Excellent graduation thesis!
 
-# 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+# 📝 Papers 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to TNSM 2023</div><img src='images/sonnet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**Sonnet:** A Control-Theoretic Approach for Resource Allocation in Cluster Management
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Ruifeng Ma,** Yufeng Zhan, Chuge Wu, Zehua Guo and Yuanqing Xia
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Existing methods cannot describe the internal mathematical expression between resources and performance, resulting in the inability to accurately give the amount of resource allocation under dynamic load conditions.
+- We use a dynamic linearization approach to identify a model between resources and performance and minimize an objective function that controls error and resource cost.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.11* The First Prize Scholarship of Beijing Institute of Technology 
+- *2022.11* The First Prize Scholarship of Beijing Institute of Technology
+- *2018.11* The Second Prize Scholarship of Shandong University
+- *2022.03* The Second Prize of National Graduate Mathematics Modeling Competition
+- *2021.12* The Second Prize of National Graduate Mathematics Modeling Competition
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09 - 2024.06 (now)*, Post-graduate, Automation School, Beijing Institute of Technology, Beijing 
+- *2017.09 - 2021.06*, Undergraduate, School of Control Science and Engineering, Shandong University, Jinan 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💻 Technical Skills
+- **Software:** Matlab&Simulink, C, Python, Golang, Bash, Linux, Docker, Kubernetes, Openfaas, LATEX, MS Office
+- **Languages:** English (IELTS - 6.0), Chinese (Native)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 🧑‍💼 Internships 
+- *2021.06 - 2021.08*, [SHAREit Group](https://www.ushareit.com/), Machine Learning Interns
+- *2022.02 - 2022.03*, Chengdu Economic Development Academy, Researcher
