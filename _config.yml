@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Ma Ruifeng | 马瑞峰"
+title                    : "Ruifeng Ma | 马瑞峰"
 description              : "Focusing on cloud resource management and Machine Learning Operations. "
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Ma Ruifeng(马瑞峰)"
+  name             : "Ruifeng Ma (马瑞峰)"
   avatar           : "images/A.JPG"
   bio              : "Beijing Institute of Technology"
   location         : "Beijing, China"
