@@ -30,7 +30,7 @@ My research interests include cloud resource management and Machine Learning Ope
 
 # 📝 Papers 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to TNSM 2023</div><img src='images/a_1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to IEEE TNSM 2023</div><img src='images/a_1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Sonnet:** A Control-Theoretic Approach for Resource Allocation in Cluster Management
@@ -41,6 +41,15 @@ My research interests include cloud resource management and Machine Learning Ope
 - We use a dynamic linearization approach to identify a model between resources and performance and minimize an objective function that controls error and resource cost.
 </div>
 </div>
+
+# 🏷 Projects
+
+**Sep. 2022 - Jun. 2023:** Intelligent Scrap Grading System(Participate) Supported by the [China Unicom](http://www.chinaunicom.com.cn/index.html).
+- Responsible for Building a Machine Learning Operations System on a Serverless Platform.
+
+**Nov. 2020 - Jun. 2021:** Multi-dimensional Time Series prediction based on Deep Learning.
+- Undergraduate research project thesis. Earned 119 stars on GitHub [Link](https://github.com/RuifMaxx/Multidimensional-time-series-with-transformer). Achieved grade A.
+- Learned Generative Models (VAE, FLOW, GAN). Identified the disadvantages of existing models in modeling long sequences. I replaced the decoder of TPA model with GRU to build GRU-TPA model and combined the advantages of MQ-RNN and self-attention to build the MQ-Attention model.
 
 
 # 🎖 Honors and Awards
